@@ -1,0 +1,40 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+
+body{
+	font-family: Impact;
+	background-color: #4682B4;
+}
+
+h1{
+	color:#9ACD32;
+}
+p{
+	margin: 10px, 100;
+	width: 70%;
+	font-size: 20px
+	color: blueviolet;
+}
+
+	div{
+		background-color: DarkSalmon;
+		color: maroon;
+		margin:  20px;
+		
+		padding: 10px;
+		}
+
+	a{
+		text-decoration: none;
+		font-size: 30px;
+	}
+	img{
+		max-width: 30%;
+		height: auto;
+		display: block;
+		margin:  auto;
+	}
